@@ -31,7 +31,7 @@ public class results {
 	    System.out.println("Enter score4:");
 		Scanner sc4 =new Scanner(System.in);
 	    int score4=sc4.nextInt();
-	    int total=score1+score2+score3+score4;
+	    double total=score1+score2+score3+score4;
 	    
 	    double average=total/4;
 	    String grade="0";
