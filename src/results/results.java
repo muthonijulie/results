@@ -5,8 +5,8 @@ import java.text.DecimalFormat;
 public class results {
 
 	public static void main(String[] args) {
-		String name="Elizabeth Muthoni Julius",uN1="Database",uN2="Systems",uN3="Algorithm",uN4="Statistics";
-		int rollNo=1,sem=2;
+		String name="Elizabeth Muthoni Julius",uN1="Database",uN2="Systems",uN3="Algorithm",uN4="Statistics",rollNo="C026-01-0924/2022";
+		int em=2;
 		System.out.println("Enter unit code 1:");
 		Scanner uc1 =new Scanner(System.in);
 		String uCode=uc1.nextLine();
